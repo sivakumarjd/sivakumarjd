@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivakumarjd&label=Profile%20views&color=0e75b6&style=flat" alt="sivakumarjd" /> </p>
 
+- 🌱 I’m currently working on Banking **Application Projects**
+
 - 🌱 I’m currently learning **Cloud Technologies**
 
 - 💬 Ask me about **DevOps, Cloud**

@@ -1,4 +1,4 @@
-![Banner](https://media.licdn.com/dms/image/D5616AQEoGXQcYKZGfA/profile-displaybackgroundimage-shrink_350_1400/0/1670058021573?e=1678320000&v=beta&t=yEl7bnNRrL9223Em23doZHd9vQl6uR-1zs9UMSmywyI)
+
 <h1 align="center">Hi 👋, I'm Sivakumar Mani</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 <img align="right" alt="DevOps" width="400"; src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  ">

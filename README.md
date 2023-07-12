@@ -1,4 +1,4 @@
-<img src="D:\video\Banner.jpg" >
+<img src="D:/video/Banner.jpg" >
 <h1 align="center">Hi 👋, I'm Sivakumar Mani</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 <img align="right" alt="DevOps" width="400"; src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  ">

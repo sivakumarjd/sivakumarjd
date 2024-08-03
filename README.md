@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Cloud Technologies**
 
-- 💬 Ask me about **DevOps, Cloud**
+- 💬 Ask me about **DevOps, Cloud, Development**
 
 - 📫 How to reach me **sivakumarjd@gmail.com**
 
